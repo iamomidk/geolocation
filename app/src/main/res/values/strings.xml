@@ -1,3 +1,8 @@
 <resources>
 	<string name="app_name">geolocation</string>
+	<string name="bg_location_access_screen">bg</string>
+	<string name="current_location_screen">current</string>
+	<string name="geofencing_screen">geofencing</string>
+	<string name="location_updates_screen">updates</string>
+	<string name="user_activity_recognition_screen">activity</string>
 </resources>
